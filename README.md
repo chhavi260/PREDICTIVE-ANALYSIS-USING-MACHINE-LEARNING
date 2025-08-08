@@ -49,7 +49,9 @@ Used coefficients to identify key predictors of math score:
 
 ## 🖼️ Screenshots
 ### 🔹 Feature Selection
+<img width="449" height="350" alt="Image" src="https://github.com/user-attachments/assets/683381f6-32a0-4cb8-8746-4ef70afea281" />
 
+<img width="613" height="264" alt="Image" src="https://github.com/user-attachments/assets/d01b5667-f320-42bc-b002-0c515cf46fc0" />
 
 ### 🔹 Model Training
 
